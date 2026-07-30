@@ -10,8 +10,8 @@
 #include <TJpg_Decoder.h>
 
 // ==================== تنظیمات WiFi ====================
-const char* ssid = "Amir";
-const char* password = "Amir1389117";
+const char* ssid = "your_wifi_name";
+const char* password = "your_password";
 
 // ==================== تعریف اشیاء ====================
 TFT_eSPI tft = TFT_eSPI();
